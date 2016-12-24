@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello_BTS</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+</resources>
